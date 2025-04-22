@@ -226,5 +226,3 @@ plot.ylabel("Internal Temperature (K)")
 plot.grid(True)
 plot.legend()
 plot.show()
-
-
